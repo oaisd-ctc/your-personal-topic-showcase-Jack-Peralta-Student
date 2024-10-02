@@ -1,0 +1,100 @@
+body {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+ul {
+    color:white;
+}
+
+#davinci-img {
+    position: absolute;
+    left: 1560px;
+    top: 700px;
+}
+
+#manyP {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+#manyP-text {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+#subject-1 {
+    /* position: absolute;
+    left: 100px;
+    top: 1px; */
+}
+
+#subAnswer-1 {
+    position: absolute;
+    left: 530px;
+    top: 400px;
+}
+
+#subject-2 {
+    position: absolute;
+    left: 600px;
+    top: 500px;
+}
+
+#subAnswer-2 {
+    position: absolute;
+    left: 530px;
+    top: 600px;
+}
+
+#subAnswer-2-3 {
+    position: absolute;
+    left: 530px;
+    top: 670px;
+}
+
+h2 {
+    position: absolute;
+    left: 330px;
+    top: 800px;
+    color:white;
+}
+
+#Britannica-link {
+    position: absolute;
+    left: 130px;
+    top: 870px;
+}
+
+#socrates {
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+#maquiavelo {
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+
+#nikola{
+    position: absolute;
+    left: 1300px;
+    top: 300px;
+}
+#back {
+    position: absolute;
+    left: 60px;
+    top: 50px;
+}
+
+#FOOTER {
+    position: absolute;
+    left: 326px;
+    top: 900px;
+}
